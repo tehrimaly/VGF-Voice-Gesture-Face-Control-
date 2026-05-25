@@ -5,6 +5,14 @@
 This repository contains an advanced, multimodal Human-Computer Interface (HCI) designed to enable completely hands-free laptop and system control. By combining computer vision, facial tracking, and natural language processing, the software allows users to navigate their operating system, manipulate the cursor, execute shortcuts, and input commands using a combination of facial movements, hand gestures, and voice inputs.
 
 This project bridges the gap between traditional peripherals and natural user interactions, offering an accessible solution for users with physical impairments or environments requiring touchless operations.
+<img width="687" height="523" alt="image" src="https://github.com/user-attachments/assets/c0622e5b-0948-4912-9402-66ed3d9ee80c" />
+<img width="745" height="395" alt="image" src="https://github.com/user-attachments/assets/17075fb0-9741-45bc-8705-0ba8d264167d" />
+<img width="1226" height="692" alt="image" src="https://github.com/user-attachments/assets/769e3d0c-20fe-4fc8-93f0-d3a4489fc0c4" />
+<img width="1205" height="614" alt="image" src="https://github.com/user-attachments/assets/241d18d7-0690-4a2b-9b05-1e9204c2acc7" />
+
+
+
+
 
 ---
 
